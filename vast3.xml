@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VAST version="3.0">
+    <Ad id="FXPI7002H">
+        <InLine>
+            <AdSystem version="4.0">Adstor</AdSystem>
+            <AdTitle><![CDATA[The Apollo: Missions to the Moon Longform]]></AdTitle>
+            <Creatives>
+                <Creative sequence="1" id="166872">
+                    <Linear>
+                        <Duration>00:00:28</Duration>
+                        <MediaFiles>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6901" height="720" delivery="progressive" bitrate="2725" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_2500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6901" height="720" delivery="progressive" bitrate="2725" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_2500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="480" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6902" height="270" delivery="progressive" bitrate="451" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_300k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="480" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6902" height="270" delivery="progressive" bitrate="451" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_300k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1024" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6903" height="576" delivery="progressive" bitrate="1489" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_1300k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1024" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6903" height="576" delivery="progressive" bitrate="1489" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_1300k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6904" height="720" delivery="progressive" bitrate="4724" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216509_4500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6904" height="720" delivery="progressive" bitrate="4724" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216509_4500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6905" height="226" delivery="progressive" bitrate="373" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_225k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6905" height="226" delivery="progressive" bitrate="373" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_225k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="640" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6906" height="360" delivery="progressive" bitrate="960" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_800k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="640" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6906" height="360" delivery="progressive" bitrate="960" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_800k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6907" height="720" delivery="progressive" bitrate="2007" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_1800k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6907" height="720" delivery="progressive" bitrate="2007" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_1800k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6908" height="720" delivery="progressive" bitrate="3632" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216509_3400k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6908" height="720" delivery="progressive" bitrate="3632" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216509_3400k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="480" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6909" height="270" delivery="progressive" bitrate="657" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="480" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6909" height="270" delivery="progressive" bitrate="657" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_500k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6910" height="226" delivery="progressive" bitrate="296" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_150k_BTN.mp4]]></MediaFile>
+                            <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6910" height="226" delivery="progressive" bitrate="296" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_150k_BTN.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Impression id="346"><![CDATA[https://amws-preprod.adstor.cts.comcast.net/api/impression/ab86d0a7-fa97-40ef-ad85-a254d9e92077]]></Impression>
+        </InLine>
+    </Ad>
+</VAST>
